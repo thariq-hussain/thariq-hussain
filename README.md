@@ -1,7 +1,5 @@
 <div align="center">
 
-# Thariq Hussain
-
 ```
  ████████╗██╗  ██╗ █████╗ ██████╗ ██╗ ██████╗ 
  ╚══██╔══╝██║  ██║██╔══██╗██╔══██╗██║██╔═══██╗
@@ -11,14 +9,12 @@
     ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚══▀▀═╝
 ```
 
+# If a human is doing it twice, I automate it.
+
 ### I build AI automation systems that actually ship.
 **Not demos—production tools that handle real business operations.**
 
 </div>
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
 
 My background is in **operations and process optimization**, which means I understand what breaks in real workflows *before* building the automation around it. I've spent years executing complex projects, managing stakeholders, and obsessing over what makes systems reliable at scale.
 
@@ -63,10 +59,6 @@ Building the way I'd want it built for clients.
   - Technical Deep Dives (blog posts or detailed writeups)
 -->
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
 <br>
 
 ## 💭 How I Think About Tech
@@ -104,28 +96,30 @@ I don't care about using the "right" framework. I care about shipping reliable s
 
 <br>
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
 ## 🧰 Tech Stack (The Honest Version)
 
 <div align="center">
 
-| Category | Tools |
-|----------|-------|
-| **Daily Drivers** | `n8n` · `Docker` · `JavaScript` · `REST APIs` · `Webhooks` · `React + Vite` · `Cloudflare Pages` |
-| **Business Tools** | `WordPress` · `Stripe` · `CRM integrations` · `AI APIs` · `WhatsApp Business API` |
-| **Infrastructure** | `Unraid` · `Self-hosted services` · `Security-focused architecture` |
-| **Learning** | `Python` (for automation scripts and AI tooling) |
+### Daily Drivers
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+### Business & Infrastructure
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Unraid](https://img.shields.io/badge/Unraid-F15A2C?style=for-the-badge&logo=unraid&logoColor=white)
 
 </div>
 
 <!-- Customize this section as your stack evolves -->
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
 
 <br>
 
@@ -162,10 +156,6 @@ Who need AI and workflow automation that integrates with their existing chaos.
 
 <br>
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
 ## 📬 Let's Connect
 
 <div align="center">
@@ -180,10 +170,6 @@ Who need AI and workflow automation that integrates with their existing chaos.
 <!-- Add your preferred contact methods as they become available -->
 
 <br>
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
 
 <div align="center">
 
