@@ -12,7 +12,7 @@
 # If a human is doing it twice, I automate it.
 
 ### I build AI automation systems that actually ship.
-**Not demos—production tools that handle real business operations.**
+**Not demos. Production tools that handle real business operations.**
 
 </div>
 
@@ -24,7 +24,7 @@ My background is in **operations and process optimization**, which means I under
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### Sayl Solutions
 AI automation for businesses that need things to work.
@@ -39,13 +39,23 @@ Built with n8n, custom APIs, and whatever gets the job done.
 **[saylsolutions.com](https://saylsolutions.com)**
 
 </td>
-<td width="50%">
+<td width="33%">
+
+### Vicer
+AI-powered job search platform that automates applications and matches you with the right roles.
+
+AI Career Agent finds jobs, crafts personalized applications, and gets you interviews faster.
+
+**[vicer.app](https://vicer.app)**
+
+</td>
+<td width="34%">
 
 ### Content & Infrastructure
 
-**Teaching** — Practical tutorials on AI automation, n8n workflows, and self-hosted infrastructure.
+**Teaching** - Practical tutorials on AI automation, n8n workflows, and self-hosted infrastructure.
 
-**Homelab** — Unraid setup with Docker containers, security-first architecture, and self-hosted tools.
+**Homelab** - Unraid setup with Docker containers, security-first architecture, and self-hosted tools.
 
 Building the way I'd want it built for clients.
 
@@ -111,8 +121,10 @@ I don't care about using the "right" framework. I care about shipping reliable s
 
 ### Business & Infrastructure
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Zoho](https://img.shields.io/badge/Zoho-C8272E?style=for-the-badge&logo=zoho&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Unraid](https://img.shields.io/badge/Unraid-F15A2C?style=for-the-badge&logo=unraid&logoColor=white)
@@ -150,7 +162,7 @@ Who need AI and workflow automation that integrates with their existing chaos.
 
 <div align="center">
 
-**If automation unlocks real leverage for you—[let's talk](https://thariqhussain.com/connect).**
+**If automation unlocks real leverage for you - [let's talk](https://thariqhussain.com/connect).**
 
 </div>
 
