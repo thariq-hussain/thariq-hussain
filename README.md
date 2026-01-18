@@ -1,4 +1,6 @@
-# Hey there, I'm Thariq 👋
+<div align="center">
+
+# Thariq Hussain
 
 ```
  ████████╗██╗  ██╗ █████╗ ██████╗ ██╗ ██████╗ 
@@ -9,75 +11,190 @@
     ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚══▀▀═╝
 ```
 
-**Creative technologist • WebGL enthusiast • Building the future of interactive experiences**
+### I build AI automation systems that actually ship.
+**Not demos—production tools that handle real business operations.**
 
----
+</div>
 
-## 📊 Quick Stats
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
-| | | |
-|---|---|---|
-| 🚀 **2** Featured Projects | ☕ **100%** Coffee Powered | ∞ **Always** Learning |
+My background is in **operations and process optimization**, which means I understand what breaks in real workflows *before* building the automation around it. I've spent years executing complex projects, managing stakeholders, and obsessing over what makes systems reliable at scale.
 
----
+<br>
 
-## 🛠️ Tech Arsenal
+## 🔨 What I'm Building Now
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<table>
+<tr>
+<td width="50%">
 
----
+### Sayl Solutions
+AI automation for businesses that need things to work.
 
-## 🎨 Featured Projects
+→ AI voice agents  
+→ WhatsApp chatbots  
+→ Website chat systems  
+→ Workflow automation
 
-### 🎬 [nothing-to-watch](https://github.com/thariq-hussain/nothing-to-watch)
-> An experimental WebGL gallery rendering thousands of film posters as an interactive Voronoi diagram. GPU-accelerated visualization at scale.
+Built with n8n, custom APIs, and whatever gets the job done.
 
-**Tech:** `TypeScript` `WebGL` `Visualization` `Performance`
+**[saylsolutions.com](https://saylsolutions.com)**
 
----
+</td>
+<td width="50%">
 
-### 🐳 [docker-mcp-tutorial](https://github.com/thariq-hussain/docker-mcp-tutorial)
-> Comprehensive guide for building MCP servers with Docker. Perfect resource for exploring AI integration and containerization best practices.
+### Content & Infrastructure
 
-**Tech:** `Docker` `MCP` `Containers` `Tutorial`
+**Teaching** — Practical tutorials on AI automation, n8n workflows, and self-hosted infrastructure.
 
----
+**Homelab** — Unraid setup with Docker containers, security-first architecture, and self-hosted tools.
 
-## 🔥 What I'm Into
+Building the way I'd want it built for clients.
 
-**Creative Tech & Visualization** — Pushing the boundaries of what's possible on the web. Transforming massive datasets into interactive visual experiences and experimenting with novel rendering techniques.
+</td>
+</tr>
+</table>
 
-**Web Technologies** — TypeScript, WebGL, and modern frameworks are my playground. Building performant frontend applications and creative generative art projects.
+<!-- 
+  Future section ideas:
+  - Featured Client Projects (when you can share case studies)
+  - Technical Deep Dives (blog posts or detailed writeups)
+-->
 
-**Systems & Infrastructure** — Fascinated by how things work under the hood. Containers, APIs, and distributed systems always catch my attention.
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
----
+<br>
 
-## 💬 Let's Connect
+## 💭 How I Think About Tech
 
-Got an interesting project? Want to chat about creative coding? Just vibing with fellow tech enthusiasts?
+<table>
+<tr>
+<td>
 
-**[➜ Reach out on GitHub](https://github.com/thariq-hussain)**
+#### ⚡ Automation-first
+If a human is doing it more than twice, it should be automated.
 
----
+</td>
+<td>
+
+#### 🎯 Business context matters
+The best technical solution is worthless if it doesn't solve the actual problem. I work backward from business outcomes.
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### 🏠 Self-hosting where it counts
+Full control over infrastructure means faster iteration, better security, and no vendor lock-in. But I'm pragmatic—managed services when they make sense.
+
+</td>
+<td>
+
+#### 🛠️ Stack agnostic, outcome focused
+I don't care about using the "right" framework. I care about shipping reliable systems.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+## 🧰 Tech Stack (The Honest Version)
 
 <div align="center">
 
-**Always learning. Always building. Always curious.** 🚀
+| Category | Tools |
+|----------|-------|
+| **Daily Drivers** | `n8n` · `Docker` · `JavaScript` · `REST APIs` · `Webhooks` · `React + Vite` · `Cloudflare Pages` |
+| **Business Tools** | `WordPress` · `Stripe` · `CRM integrations` · `AI APIs` · `WhatsApp Business API` |
+| **Infrastructure** | `Unraid` · `Self-hosted services` · `Security-focused architecture` |
+| **Learning** | `Python` (for automation scripts and AI tooling) |
+
+</div>
+
+<!-- Customize this section as your stack evolves -->
 
 ```
-< Thanks for stopping by! >
- ────────────────────────
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
+
+<br>
+
+## 🤝 What I'm Looking For
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### Collaborators
+Who want to build real automation products, not toy projects.
+
+</td>
+<td align="center" width="33%">
+
+### Roles
+Tech-ops / automation / platform positions where business operations meet technical execution.
+
+</td>
+<td align="center" width="33%">
+
+### Clients
+Who need AI and workflow automation that integrates with their existing chaos.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**If automation unlocks real leverage for you—[let's talk](https://thariqhussain.com/connect).**
+
+</div>
+
+<br>
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+## 📬 Let's Connect
+
+<div align="center">
+
+**[→ Connect with me](https://thariqhussain.com/connect)**
+
+**YouTube:** Tutorials on AI automation & workflows _(coming soon)_  
+**GitHub:** You're already here. Check out my experiments below.
+
+</div>
+
+<!-- Add your preferred contact methods as they become available -->
+
+<br>
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+<div align="center">
+
+```
+┌────────────────────────────────────────┐
+│  Building in public.                   │
+│  Shipping real tools.                  │
+│  Making automation less painful.       │
+└────────────────────────────────────────┘
+```
+
+⭐ **Star a repo if you find something useful** ⭐
 
 </div>
